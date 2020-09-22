@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
     font-family: 'Epilogue', sans-serif;
+}
+body {
     background: #F6FAFD;
+    
 }
 .navbar {
     margin-top: 62px; 
@@ -53,8 +56,102 @@ a {
     background-position: right;
     background-position-x: 85%;
     padding-right: 40px;
+    outline: none;
 }
 .arrow {
     width: 20px;
     height: 14px;
+}
+.container-1 {
+    margin-top: 130px;
+    margin-left: 240px;
+    margin-right: 112px;
+    max-height: 565px;
+    max-width: 1200px;
+    margin-bottom: 130px;
+
+}
+.container-1-title, .container-1-title2 {
+    font-size: 80px;
+    font-weight: 700;
+    color: #212353;
+}
+.containder-1-text {
+    margin-top: 50px;
+}
+.containder-1-text, .containder-1-text2, .containder-1-text3, .containder-1-text4  {
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 28.8px;
+    color: #4B5D68;
+}
+.button-learn {
+    margin-top: 66px;
+    width: 170px;
+    height: 60px;
+    background: #9C69E2;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 550;
+    color: #FFFFFF;
+    border: none;
+    outline-style: none;
+}
+.container-img-1 {
+    width: 885px;
+    height: 468px;
+    margin-left: 25em;
+    margin-top: -24em;
+    background: none;
+}
+.container-2 {
+    margin-left: 240px;
+    margin-right: 243px;
+    height: 560px;
+    width: 1117px;
+    background: rgba(240, 99, 184, 0.15);
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+.container2-block-2 {
+    margin-top: 125px;
+    width: 500px;
+    height: 310px;
+    margin-right: 92px;
+    margin-left: 50px;
+}
+.container-2-title, .container-2-title2 {
+    font-weight: 700;
+    font-size: 40px;
+    color: #212353;
+    line-height: 130%;
+}
+.container-2-title2 {
+    margin-bottom: 40px;
+}
+.container-2-text1, .container-2-text2, .container-2-text3, .container-2-text4, .container-2-text5 {
+    font-weight: 500;
+    font-size: 17px;
+    color: #4B5D68; 
+    line-height: 160%;
+}
+.container-2-img-2 {
+    width: 477px;
+    height: 504px;
+    background: none;
+}
+.container-3 {
+
+}
+.container-3-title {
+
+}
+.containder-3-text {
+
+}
+.container-3-img-3 {
+
 }
