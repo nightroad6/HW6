@@ -57,6 +57,7 @@ body {
     background-position-x: 85%;
     padding-right: 40px;
     outline: none;
+    cursor: pointer;
 }
 .arrow {
     width: 20px;
@@ -81,7 +82,7 @@ body {
 }
 .containder-1-text, .containder-1-text2, .containder-1-text3, .containder-1-text4  {
     font-size: 18px;
-    font-weight: 500px;
+    font-weight: 500;
     line-height: 28.8px;
     color: #4B5D68;
 }
@@ -92,10 +93,11 @@ body {
     background: #9C69E2;
     border-radius: 50px;
     font-size: 18px;
-    font-weight: 550;
+    font-weight: 500;
     color: #FFFFFF;
     border: none;
     outline-style: none;
+    cursor: pointer;
 }
 .container-img-1 {
     width: 885px;
@@ -216,6 +218,7 @@ body {
     background-position-x: 100%;
     padding-right: 40px;
     outline: none;
+    cursor: pointer;
 }
 .block-1-img1 {
     width: 232px;
@@ -359,6 +362,7 @@ body {
     height: 120px;
     width: 400px;
     display: flex;
+    
 }
 .button-contact {
     border: none;
@@ -371,6 +375,7 @@ body {
     font-weight: 600;
     outline: none;
     margin-right: 20px;
+    cursor: pointer;
 }
 .contact-container2 {
     height: 408px;
