@@ -41,7 +41,7 @@ body {
     width: 210px;
     height: 60px;
 }
-.button-request {
+.button-request, .button-contact-2 {
     border: none;
     width: 210px;
     height: 60px;
@@ -257,6 +257,7 @@ body {
     border: none;
     margin-left: 240px;
     margin-right: 240px;
+    margin-bottom: 150px;
 
 }
 .container-5-title {
@@ -326,4 +327,83 @@ body {
     width: 20px;
     height: 14px;
 }
-
+.contact-container {
+    border-top: 1px solid #ba9de2;
+    width: 1600px;
+    height: 761px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contact-title {
+    margin-left: 240px;
+    margin-right: 243px;
+    margin-top: 110px;
+    width: 584px;
+    height: 101px;   
+}
+.contact-title-1 {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 130%;
+    color: #212353;
+}
+.contact-title-text {
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    color: #4B5D68;
+}
+.button-title {
+    margin-top: 120px;
+    height: 120px;
+    width: 400px;
+    display: flex;
+}
+.button-contact {
+    border: none;
+    width: 170px;
+    height: 60px;
+    background-color: #F063B8;
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 600;
+    outline: none;
+    margin-right: 20px;
+}
+.contact-container2 {
+    width: 1117px;
+    height: 408px;
+    margin-top: 150px;
+    margin-left: 240px;
+    margin-right: 243px;
+}
+.contact-block-1 {
+    color: #212353;
+    width: 266px;
+    height: 240px;
+}
+.icon-contact {
+    width: 49px;
+    height: 35px;
+    margin-right: 20px;
+}
+.contact-block-1-title {
+    color: #212353;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 160%;
+    margin-top: -35px;
+    margin-left: 70px;
+    margin-bottom: 70px;
+}
+.email, .tel, .address {
+    font-size: 16px;
+    line-height: 180%;
+    color: #212353;
+    text-decoration: none;
+}
+.email-1 {
+    margin-top: 30px;
+}
