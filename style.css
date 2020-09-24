@@ -192,7 +192,7 @@ a {
 .block-1-title, .block-2-title, .block-3-title, .block-4-title{
     font-size: 24px;
     line-height: 130%;
-    font-weight: 400;
+    font-weight: bold;
     margin-bottom: 20px;
 }
 .block-1-text, .block-2-text, .block-3-text, .block-4-text {
@@ -203,7 +203,7 @@ a {
 .button-block-arrow-1, .button-block-arrow-2, .button-block-arrow-3, .button-block-arrow-4  {
     margin-top: 20px;
     border: none;
-    width: 127px;
+    width: 130px;
     height: 26px;
     background-color: #F6FAFD;
     color: #212353;
@@ -212,7 +212,7 @@ a {
     background-image: url(img/arrow.png);
     background-repeat: no-repeat;
     background-position: right;
-    background-position-x: 95%;
+    background-position-x: 100%;
     padding-right: 40px;
     outline: none;
 }
